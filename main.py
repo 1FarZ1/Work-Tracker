@@ -1,6 +1,6 @@
 import requests
-API_KEY ="212d008238be2af3e0c01d0c218640b9"
-APP_ID="a461a982"
+API_KEY ="UR_API_KEY"
+APP_ID="UR_APP_ID"
 ENDPOINT =" https://trackapi.nutritionix.com/v2/natural/exercise"
 SHETTY_ENDPOINT ="https://api.sheety.co/c80a12437aff393c8840a3a9ebcad17b/workout/workouts"
 #---------------------------------------------------------------------------------------
